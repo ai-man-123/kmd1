@@ -37,12 +37,12 @@ const jojoapi = "Syaa"
 const ikiapi = "FuckBitch"
 
 // Setting Donasi
-const gopay = "0882-1329-2687"
-const ovo = "0813-1994-4917"
-const dana = "0813-1994-4917"
-const pulsa = "0813-1994-4917"
-const pulsa2 = "0882-1329-2687"
-const ig = "sofunsyabi.jpg"
+const gopay = "0102810046"
+const ovo = "60102810046"
+const dana = "0102810046"
+const pulsa = "0102810046"
+const pulsa2 = "0102810046"
+const ig = "aiman1_23.jpg"
 
 // Exif
 const Exif = require("../lib/exif")
@@ -234,15 +234,15 @@ module.exports = async(conn, msg, m, setting, store) => {
 		}
 		//{ callButton: { displayText: `Call Owner!`, phoneNumber: `+6281319944917` } },
 		const buttonsDefault = [
-			{ urlButton: { displayText: `GRUP JOJO-BOT`, url : `https://chat.whatsapp.com/HECLovHbCI6LVVH4Q8FN2C` } },
-			{ urlButton: { displayText: `Youtube Channel`, url : `https://youtube.com/channel/UCZzt-Qw0zTYc8UP-LL2G5fA` } },
+			{ urlButton: { displayText: `tiktok owner`, url : `tiktok.com/@aiman_night` } },
+			{ urlButton: { displayText: `github`, url : `https://github.com/ai-man-123` } },
 			{ quickReplyButton: { displayText: `💰 Donasi`, id: `${prefix}donate` } },
 			{ quickReplyButton: { displayText: `Pemilik Bot`, id: `${prefix}owner` } },
 			{ quickReplyButton: { displayText: `Info Bot`, id: `${prefix}infobot` } },
 		]
 		const button5 = [
-			{ callButton: { displayText: `Number Owner`, phoneNumber: `0813-1994-4917` } },
-			{ urlButton: { displayText: `𝙂𝙧𝙪𝙥 𝙅𝙤𝙟𝙤`, url : `https://chat.whatsapp.com/HECLovHbCI6LVVH4Q8FN2C` } },
+			{ callButton: { displayText: `Number Owner`, phoneNumber: `0102810046` } },
+			{ urlButton: { displayText: `sc`, url : `https://github.com/GetSya/JOJO-MD` } },
 			{ quickReplyButton: { displayText: `Back To Menu 🔙`, id: `${prefix}menu` } },
 		]
         
@@ -276,16 +276,16 @@ module.exports = async(conn, msg, m, setting, store) => {
 		    tebakgambar.splice(getGamePosi(from, tebakgambar), 1)
 		  }
 		}
-if (chats.startsWith("@6288213292687")){
+if (chats.startsWith("@60102810046")){
    conn.sendMessage(from, { audio: {url : `https://d.top4top.io/m_22231oj7h1.mp3`}, mimetype: 'audio/mp4', ptt: true}, {quoted: msg})
 }
-if (chats.startsWith("eh")){
+if (chats.startsWith("whhwhhx")){
    conn.sendMessage(from, { audio: {url : `https://b.top4top.io/m_2223iin241.mp3`}, mimetype: 'audio/mp4', ptt: true}, {quoted: msg})
 }
-if (chats.startsWith("Eh")){
+if (chats.startsWith("aggdgs")){
    conn.sendMessage(from, { audio: {url : `https://b.top4top.io/m_2223iin241.mp3`}, mimetype: 'audio/mp4', ptt: true}, {quoted: msg})
 }
-if (chats.startsWith("Jojo")){
+if (chats.startsWith("rikka")){
    conn.sendMessage(from, { audio: {url : `https://d.top4top.io/m_22231oj7h1.mp3`}, mimetype: 'audio/mp4', ptt: true}, {quoted: msg})
 }
 if (chats.startsWith("woy")){
@@ -348,8 +348,8 @@ case prefix+'donasiah':
 case prefix+'donasi':
   case prefix+'donate':
   var donasibut = [
-			{ callButton: { displayText: `Number Owner`, phoneNumber: `0813-1994-4917` } },
-			{ urlButton: { displayText: `𝙂𝙧𝙪𝙥 𝙅𝙤𝙟𝙤`, url : `https://chat.whatsapp.com/HECLovHbCI6LVVH4Q8FN2C` } },
+			{ callButton: { displayText: `Number Owner`, phoneNumber `+60102810046` } },
+			{ urlButton: { displayText: `sc`, url : `https://github.com/GetSya/JOJO-MD` } },
 			{ quickReplyButton: { displayText: `Aku Ingin Donasi`, id: `${prefix}donasiah` } },
 		]
 var teks = `  │
@@ -372,7 +372,7 @@ var teks = `  │
 			    break
 case prefix+'sewa':
   case prefix+'daftarprem':
-  var teks = `*[ LIST HARGA JOJO PREM ]*
+  var teks = `*[ LIST HARGA rikka PREM ]*
 
 _Yakin kamu mau daftar ke premium?_
 
@@ -392,8 +392,8 @@ _Yakin kamu mau daftar ke premium?_
 			case prefix+'runtime':
 			    reply(runtime(process.uptime()))
 			    break
-case prefix+'groupjojo':
-  reply("Group 1\n\nhttps://chat.whatsapp.com/HECLovHbCI6LVVH4Q8FN2C\nGroup 2\n\nhttps://chat.whatsapp.com/DqM488U5RvmGpsbTMfDbMv\nCobain Bot Telegram Jojo yuk!\nhttps://t.me/docsjojo_bot?start=help")
+case prefix+'tiktok owner':
+  reply("tiktok.com/@aiman_night")
   break
 			case prefix+'speed':
 			    let timestamp = speed();
@@ -403,19 +403,19 @@ case prefix+'groupjojo':
 case prefix+'infobot':
   case prefix+'inforobot':
     case prefix+'info':
-      var caption = `*[ INFO ROBOT JOJO ]*
+      var caption = `*[ INFO ROBOT rikka]*
 
-*Nama Bot :* Jojo
-*Name Owner :* Arasya
-*Nomor Bot :* wa.me/6288213292687
-*Nomor Owner :* wa.me/6281319944917
+*Nama Bot :* rikka
+*Name Owner :* Aiman
+*Nomor Bot :* wa.me/18038884753
+*Nomor Owner :* wa.me/60102810046
 *Engine :* NodeJs
 *Status :* Aktif
 *Aktif Selama :* ${runtime(process.uptime())}
 
 ===================
 Thanks To
-- Riyan
+- Aiman
 - Arasya
 - Amel
 - Hardianto
@@ -428,22 +428,22 @@ break
 			    reply(`◪ DONASI
   │
   ├─ ❏ GOPAY
-  ├─ ❏ 088213292687
+  ├─ ❏ 0102810046
   ├─ ❏ OVO
-  ├─ ❏ 088213292687
+  ├─ ❏ 0102810046
   ├─ ❏ PULSA
-  ├─ ❏ 081319944917
+  ├─ ❏ 0102810046
   ├─ ❏ PULSA2
-  ├─ ❏ 088213292687
+  ├─ ❏ 0102810046
   ├─ ❏ INSTAGRAM
-  └─ ❏ https://www.instagram.com/sofunsyabi.id
+  └─ ❏ https://www.instagram.com/aiman1_23
   
   Donasi Untuk Upgrade Ke Fitur Premium
   Note : Donasi Seikhlasnya`)
 			    break*/
 			case prefix+'owner':
 			    for (let x of ownerNumber) {
-			      sendContact(from, x.split('@s.whatsapp.net')[0], 'Arasya Rafi', msg)
+			      sendContact(from, x.split('@s.whatsapp.net')[0], 'Aiman', msg)
 			    }
 			    conn.sendMessage(from, { audio: {url : `https://b.top4top.io/m_2223iin241.mp3`}, mimetype: 'audio/mp4', ptt: true}, {quoted: msg})
 			    break
