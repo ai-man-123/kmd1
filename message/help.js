@@ -74,20 +74,6 @@ exports.allmenu = (sender, prefix, pushname, isOwner, isPremium, balance, limit,
   ≻ ${prefix}husbu
   ≻ ${prefix}yaoi
   
-  
-  *( ⚠️ )  Premium User*
-  ≻ ${prefix}ass
-  ≻ ${prefix}bdsm
-  ≻ ${prefix}ahegao
-  ≻ ${prefix}cuckold
-  ≻ ${prefix}blowjob
-  ≻ ${prefix}cum
-  ≻ ${prefix}ero
-  ≻ ${prefix}femdom
-  ≻ ${prefix}foot
-  ≻ ${prefix}gangbang
-  ≻ ${prefix}xnxx <Link>
-  
   *( 🎨 )  Menu Maker*
   ≻ ${prefix}glitch <Text> <Text>
   ≻ ${prefix}flaming <Text>
@@ -139,7 +125,6 @@ exports.allmenu = (sender, prefix, pushname, isOwner, isPremium, balance, limit,
   ≻ ${prefix}darkjokes
   ≻ ${prefix}covid19
   ≻ ${prefix}cerpen
-  ≻ ${prefix}cersex
   ≻ ${prefix}wiki <Query>
   ≻ ${prefix}igstalk <Username>
   ≻ ${prefix}say <Text>
