@@ -74,8 +74,6 @@ exports.allmenu = (sender, prefix, pushname, isOwner, isPremium, balance, limit,
   ≻ ${prefix}husbu
   ≻ ${prefix}yaoi
   
-  *( 📛 ) Nsfw User Free*
-  ≻ ${prefix}hentai
   
   *( ⚠️ )  Premium User*
   ≻ ${prefix}ass
@@ -223,5 +221,6 @@ exports.allmenu = (sender, prefix, pushname, isOwner, isPremium, balance, limit,
   - @sofunsyabi.id (Arasya)
   - M Hadi Firmansya (Hadi Api)
   - @melcanz_ (Amel)
+  - @aiman(man)
   - @hardianto.xyz (Anto)`
 }
